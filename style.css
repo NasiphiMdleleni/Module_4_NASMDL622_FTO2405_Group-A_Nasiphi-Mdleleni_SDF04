@@ -92,7 +92,7 @@ border: none;}
        width: 100%;
      }
      .btn-2:hover{
-       background: transparent;
+       background:  palevioletred;
      }
      .btn-2 span:hover{
        color: #c797eb;
